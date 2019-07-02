@@ -1,0 +1,4 @@
+SELECT LAST_NAME, DEPARTMENT_ID
+FROM employees
+WHERE DEPARTMENT_ID in (20, 50)
+Order by last_name ASC;

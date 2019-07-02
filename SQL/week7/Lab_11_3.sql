@@ -1,0 +1,2 @@
+SELECT EMPLOYEE, DEPARTMENT_ID
+FROM employees_vu;

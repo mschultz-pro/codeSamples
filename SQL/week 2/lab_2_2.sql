@@ -1,0 +1,3 @@
+SELECT last_name, DEPARTMENT_ID
+FROM employees
+WHERE EMPLOYEE_ID = 176;

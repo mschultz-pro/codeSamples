@@ -1,0 +1,3 @@
+CREATE VIEW EMPLOYEES_VU AS
+SELECT employee_id, last_name EMPLOYEE, department_id
+FROM EMPLOYEES;

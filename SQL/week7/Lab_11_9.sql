@@ -1,0 +1,1 @@
+CREATE INDEX dept_name_index ON DEPT (NAME);

@@ -1,0 +1,4 @@
+SELECT e.DEPARTMENT_ID department , e.LAST_NAME employee, c.LAST_NAME colleague
+FROM EMPLOYEES e join EMPLOYEES c on e.DEPARTMENT_ID = c.DEPARTMENT_ID
+where e.EMPLOYEE_ID != c.EMPLOYEE_ID
+order by e.DEPARTMENT_ID;

@@ -1,0 +1,3 @@
+DELETE 
+FROM MY_EMPLOYEE
+WHERE FIRST_NAME = 'Betty' and LAST_NAME = 'Dancs';

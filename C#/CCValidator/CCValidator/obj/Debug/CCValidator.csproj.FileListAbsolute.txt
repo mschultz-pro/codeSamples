@@ -1,0 +1,9 @@
+d:\micah\documents\visual studio 2015\Projects\CCValidator\CCValidator\bin\Debug\CCValidator.exe.config
+d:\micah\documents\visual studio 2015\Projects\CCValidator\CCValidator\bin\Debug\CCValidator.exe
+d:\micah\documents\visual studio 2015\Projects\CCValidator\CCValidator\bin\Debug\CCValidator.pdb
+d:\micah\documents\visual studio 2015\Projects\CCValidator\CCValidator\obj\Debug\CCValidator.csprojResolveAssemblyReference.cache
+d:\micah\documents\visual studio 2015\Projects\CCValidator\CCValidator\obj\Debug\CCValidator.Form1.resources
+d:\micah\documents\visual studio 2015\Projects\CCValidator\CCValidator\obj\Debug\CCValidator.Properties.Resources.resources
+d:\micah\documents\visual studio 2015\Projects\CCValidator\CCValidator\obj\Debug\CCValidator.csproj.GenerateResource.Cache
+d:\micah\documents\visual studio 2015\Projects\CCValidator\CCValidator\obj\Debug\CCValidator.exe
+d:\micah\documents\visual studio 2015\Projects\CCValidator\CCValidator\obj\Debug\CCValidator.pdb
