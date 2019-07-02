@@ -1,0 +1,11 @@
+module invintoryApp
+{
+  interface invintory
+  {
+	string checkAvailability(in string item);
+	short checkStock(in string item);
+	string sellItem(in string item);
+	string listLowStock();
+	string listItems();
+  };
+};
